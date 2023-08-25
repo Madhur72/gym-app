@@ -14,7 +14,7 @@ const Navbar = () => {
       <img
         src={gmyster}
         alt="logo"
-        style={{ padding:"6px" , width: "100px", height: "65px", margin: "0 20px" }}
+        style={{ padding:"10px" , width: "75px", height: "55px", margin: "0 20px" }}
       />
 
       <Stack
